@@ -1,24 +1,30 @@
 # Json-Schema-Editor
 
-## Project setup
-```
-yarn install
-```
+A json-schema editor of high efficient and easy-to-use, base on Vue
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+<p align="center">
+  <img width="100%" src="https://github.com/TaitChan/json-schema-editor/raw/main/src/assets/demo.png">
+</p>
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Function
+**支持导入json**
 
-### Lints and fixes files
-```
-yarn lint
-```
+<p align="center">
+  <img width="100%" src="https://github.com/TaitChan/json-schema-editor/raw/main/src/assets/importJson.png">
+</p>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**支持导入json-schema**
+
+<p align="center">
+  <img width="100%" src="https://github.com/TaitChan/json-schema-editor/raw/main/src/assets/importJsonSchema.png">
+</p>
+
+### Example
+**Demo** [https://taitchan.github.io/dist/)
+
+Don't forget to star if it helped!
+如果对您有帮助，别忘记给个星哦
+
+### Links
+
+- [json-schema-editor-vue](https://github.com/zyqwst/json-schema-editor-vuel)
