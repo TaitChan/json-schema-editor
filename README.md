@@ -20,11 +20,11 @@ A json-schema editor of high efficient and easy-to-use, base on Vue
 </p>
 
 ### Example
-**Demo** [https://taitchan.github.io/dist/)
+**Demo** [https://taitchan.github.io/json-schema-editor/)
 
 Don't forget to star if it helped!
 如果对您有帮助，别忘记给个星哦
 
 ### Links
 
-- [json-schema-editor-vue](https://github.com/zyqwst/json-schema-editor-vuel)
+- [json-schema-editor-vue](https://github.com/zyqwst/json-schema-editor-vue)

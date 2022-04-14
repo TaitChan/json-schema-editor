@@ -9,7 +9,7 @@ function resolve(dir) {
 module.exports = {
   outputDir: 'dist',
   assetsDir: 'static',
-  publicPath: '',
+  publicPath: process.env.NODE_ENV === 'production' ? '/json-schema-editor/' : '/',
   lintOnSave: process.env.NODE_ENV === 'development',
   productionSourceMap: false,
   configureWebpack: {
